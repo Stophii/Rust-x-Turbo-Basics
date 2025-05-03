@@ -143,6 +143,8 @@ If you save your project now, you can see it update in real time with the rectan
 
 If you check your terminal, you'll also be able to see a log!
 
+> **Tip** Check out more Turbo Macros [here](https://docs.turbo.computer/learn/getting-started) in the API section
+
 ## Mastering Turbo
 
 Writing Rust and blending that with Turbo's powerful macros will give you mastery over _**making games fast**_.
