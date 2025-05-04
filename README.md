@@ -4,7 +4,7 @@
 
 A walkthrough on some Rust syntax and Turbo macros!
 
-> **Tip** This [video](https://youtu.be/6JuDlz1cSTo) goes over this written guide
+> **Tip** This [video](https://youtu.be/g6EFmxjdR_o) goes over this written guide
 
 ## What You'll Need
 
