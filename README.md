@@ -4,6 +4,8 @@
 
 A walkthrough on some Rust syntax and Turbo macros!
 
+> **Tip** This [video](https://youtu.be/6JuDlz1cSTo) goes over this written guide
+
 ## What You'll Need
 
 Initialize a Turbo project with `turbo init projectname`. You can replace `projectname` with whatever you desire. After that, run your project with `turbo run -w projectname`.
